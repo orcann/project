@@ -1,0 +1,42 @@
+
+=header{
+  z-index: 1;
+  border: 2px dotted red;
+  overflow: visible;
+}
+img {
+  float: right;
+  padding: 10px;
+  overflow: visible;
+  width: 20%;
+  height: auto;
+}
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+} 
+
+div{
+  background-color: lavender;
+}
+p {
+  margin-top:0px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: lightcoral;
+}
+
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
